@@ -1,0 +1,2 @@
+topicname = YOUR_UNIQUE_NTFY_TOPIC
+pcname = PC-1
