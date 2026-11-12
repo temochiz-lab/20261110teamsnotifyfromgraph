@@ -1,3 +1,0 @@
-topicname = example-teams-alerts
-pcname = PC-1
-
